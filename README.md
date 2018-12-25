@@ -1,17 +1,17 @@
-JspWebApp
+# JspWebApp
 
 Definition of the App:
 
-Objective: Create a simply app of "Task manager" and simulate a pro project
+  Objective: Create a simply app of "Task manager" and simulate a pro project
 
-Programming Techs: Java, Javascript, JQuery, JSP,
+  Programming Techs: Java, Javascript, JQuery, JSP,
 
-Utils: Spring Framework
+  Utils: Spring Framework
 
-Continuous Integration: Jenkins
+  Continuous Integration: Jenkins
 
-Quality Code: SonarQube
+  Quality Code: SonarQube
 
-Methodologies: GitFlow, Agile
+  Methodologies: GitFlow, Agile
 
-Server: Tomcat
+  Server: Tomcat
