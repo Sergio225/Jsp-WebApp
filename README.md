@@ -1,16 +1,12 @@
-# JspWebApp
+# Course Java Servlets and JSP - Build Java EE(JEE) app
 
 Definition of the App:
 
-  Objective: Create a simply app of "Task manager" and simulate a pro project
+  Objective: Create a simply app to learn the principles of the course
 
-  Programming Techs: Java, Javascript, JQuery, JSP,
+  Programming Techs: Java, JQuery, JSP, JSTL, JSPF
 
-  Utils: Spring Framework
-
-  Continuous Integration: Jenkins
-
-  Quality Code: SonarQube
+  Utils: Maven
 
   Methodologies: GitFlow, Agile
 
