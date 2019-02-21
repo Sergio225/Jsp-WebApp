@@ -9,5 +9,7 @@ Definition of the App:
   Utils: Maven
 
   Methodologies: GitFlow, Agile
+  
+  Version Control: Git
 
   Server: Tomcat
